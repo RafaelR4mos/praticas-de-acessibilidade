@@ -1,4 +1,4 @@
-# praticas-de-acessibilidade**Corrigindo problemas de Acessibilidade
+# Corrigindo problemas de Acessibilidade
 
 1. Adicionando aria-label para conteúdo não discernível por leitores de tela
 2. Utilizando tag semântica nav para corrigir demarcação de container de navegação
